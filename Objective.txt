@@ -1,0 +1,6 @@
+The objective of our project is :
+ 1. To automate the process of updation of scores.
+ 2. To reduce the burden of trainers..
+ 3. To make it easier for students to view their progress and improve their performance.
+ 4. To show the management the scores and progress of their students.
+ 5. To show the achievements of the students of WISE program. 
